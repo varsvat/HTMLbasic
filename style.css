@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://img2.goodfon.com/wallpaper/big/2/99/tekstury-tekstura-texture-fon.jpg');
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: darkgreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: darkolivegreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table, th, td {
+    border: 0.1px solid black;
+    /* border-collapse: collapse; */
+    padding: 15px;
+
+  }
